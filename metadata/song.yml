@@ -1,0 +1,63 @@
+---
+title: 'Unnamed'
+message: 'An awesome toe-tapping     loading tune      by Adam J Richardson  Written with Claude      Sonnet 5 (Pro)                            With interruptions     and interference    by Millie  >^._.^<~~ '
+orderList:
+  - 0
+  - 1
+  - 0
+  - 2
+  - 3
+  - 1
+  - 4
+  - 5
+  - 2
+  - 6
+  - 7
+  - 8
+speed: 6
+bpm: 125
+instruments:
+  - id: 1
+    source: 'st01'
+    name: 'ST-01/BassDrum4'
+    volume: 64
+  - id: 2
+    source: 'st01'
+    name: 'ST-01/Snare3'
+    volume: 58
+  - id: 3
+    source: 'st01'
+    name: 'ST-01/CloseHiHat'
+    volume: 44
+  - id: 4
+    source: 'st01'
+    name: 'ST-01/DeepBass'
+    volume: 56
+  - id: 5
+    source: 'st01'
+    name: 'ST-01/NightMare'
+    volume: 40
+    start: 0x0005
+    length: 0x269b
+  - id: 6
+    source: 'st01'
+    name: 'ST-01/Mechanic2'
+    volume: 50
+    # maybe add a loop?
+  - id: 7
+    source: 'st02'
+    name: 'ST-02/Perc-Timpani'
+    volume: 56
+  - id: 8
+    source: 'st02'
+    name: 'ST-02/Siren'
+    volume: 16
+    start: 0xbc5
+    length: 0x04f
+    # only iffily loopable :/
+  - id: 9
+    source: 'st01'
+    name: 'ST-01/Sweep'
+    volume: 20
+    start: 0xdae
+    length: 0x2da
