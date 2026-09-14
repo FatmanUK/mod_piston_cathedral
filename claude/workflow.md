@@ -21,3 +21,8 @@ Some LLMs, notably Gemini, keep flubbing the formatting. You might have to yell 
 Edit the `Primary Goal` section of the new_bootstrap.md file and have the LLM ingest it.
 
 `Review the attached new_bootstrap.md. What is the first step?`
+
+## Titles and Tempo
+
+Pick from the offered options.
+

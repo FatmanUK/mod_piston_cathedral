@@ -1,63 +1,44 @@
 ---
-title: 'Unnamed'
-message: 'An awesome toe-tapping     loading tune      by Adam J Richardson  Written with Claude      Sonnet 5 (Pro)                            With interruptions     and interference    by Millie  >^._.^<~~ '
+title: 'Piston Cathedral'
+message: 'A gritty dark electro   mechanical  rhythm   by Adam J Richardson  Written with Claude   Sonnet 5 (Medium)      With interruptions     and interference    by Millie  >^._.^<~~ '
 orderList:
   - 0
-  - 1
-  - 0
-  - 2
-  - 3
-  - 1
-  - 4
-  - 5
-  - 2
-  - 6
-  - 7
-  - 8
-speed: 6
-bpm: 125
+speed: 0x06
+bpm: 0x96
 instruments:
   - id: 1
-    source: 'st01'
-    name: 'ST-01/BassDrum4'
-    volume: 64
+    source: 'st02'
+    name: 'ST-02/linnkick'  # very quiet
+    volume: 0x40
   - id: 2
-    source: 'st01'
-    name: 'ST-01/Snare3'
-    volume: 58
+    source: 'st02'
+    name: 'ST-02/Snare7'
+    volume: 0x34
   - id: 3
     source: 'st01'
-    name: 'ST-01/CloseHiHat'
-    volume: 44
+    name: 'ST-01/HiHat2'
+    volume: 0x26
   - id: 4
     source: 'st01'
-    name: 'ST-01/DeepBass'
-    volume: 56
+    name: 'ST-01/MetalKeys'
+    volume: 0x18
+    start: 0x2332
+    length: 0x013d
   - id: 5
     source: 'st01'
-    name: 'ST-01/NightMare'
-    volume: 40
-    start: 0x0005
-    length: 0x269b
+    name: 'ST-01/Mechanic2'
+    volume: 0x40
   - id: 6
     source: 'st01'
-    name: 'ST-01/Mechanic2'
-    volume: 50
-    # maybe add a loop?
+    name: 'ST-01/MonsterBass'
+    volume: 0x34
   - id: 7
-    source: 'st02'
-    name: 'ST-02/Perc-Timpani'
-    volume: 56
+    source: 'st01'
+    name: 'ST-01/HeavySynth'
+    volume: 0x18
+    start: 0x1f02
+    length: 0x03fd  # not perfect, there is a small click
   - id: 8
     source: 'st02'
     name: 'ST-02/Siren'
-    volume: 16
-    start: 0xbc5
-    length: 0x04f
-    # only iffily loopable :/
-  - id: 9
-    source: 'st01'
-    name: 'ST-01/Sweep'
-    volume: 20
-    start: 0xdae
-    length: 0x2da
+    volume: 0x2a
