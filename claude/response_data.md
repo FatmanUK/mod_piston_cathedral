@@ -153,3 +153,18 @@ Locked in. Updated pattern-role plan (patterns 00–03 as already composed and a
 Reasoning: Bridge (04) leads into the first Forge pairing (05→06, hearing both variants back to back at the peak), Forge A returns once more later for a smaller second peak, then Requiem, a final Liturgy pass, one last Bridge→Forge B run, and out to the Coda.
 
 Next up compositionally: Pattern 04, the Bridge. Say the word when you want to start on it.
+
+
+## Structural arc amendment
+
+Adding a stage between Forge and Requiem to fix the rough transition — the climax was cutting straight to reflection with nothing between. Updated macro-arc:
+
+Invocation
+The Nave
+Liturgy
+The Forge (climax)
+Embers (comedown) — new
+Requiem
+Recessional / Coda
+
+New motif — VII: Embers. The mirror-image of Threshold (VI): where Threshold densified Ignition and made Klaxon insistent on the way into the climax, Embers thins Ignition back down and lets Klaxon recede and fade on the way out — reusing existing instruments, no new samples needed.
