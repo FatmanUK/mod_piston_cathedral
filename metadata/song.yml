@@ -1,20 +1,23 @@
 ---
 title: 'Piston Cathedral'
-message: 'A gritty dark electro   mechanical  rhythm   by Adam J Richardson  Written with Claude   Sonnet 5 (Medium)      With interruptions     and interference    by Millie  >^._.^<~~ '
+message: ' A gritty mechanical   dark-electro rhythm   by Adam J Richardson  Written with Claude   Sonnet 5 (Medium)      With interruptions     and interference    by Millie  >^._.^<~~ '
 orderList:
   - 0
   - 1
-#  - 2
-#  - 3
-#  - 2
-#  - 3
-#  - 4
-#  - 4
-#  - 5
-#  - 2
-#  - 3
-#  - 4
-#  - 6
+  - 2
+  - 3
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 5
+  - 7
+  - 2
+  - 3
+  - 4
+  - 6
+  - 8
 speed: 0x06
 bpm: 0x96
 instruments:
@@ -48,8 +51,6 @@ instruments:
     source: 'st01'
     name: 'ST-01/HeavySynth'
     volume: 0x18
-    #start: 0x1f02
-    #length: 0x03fd  # not perfect, there is a small click
   - id: 8
     source: 'st02'
     name: 'ST-02/Siren'

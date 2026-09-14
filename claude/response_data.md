@@ -126,3 +126,30 @@ Each pattern is a recombination of these — e.g. Invocation is Bellows alone (o
 This is a proposal — reuse ratio, section lengths, and whether Liturgy B needs a third variant are all open for your steer before we lock it in.
 
 Now's a good point to generate an updated bootstrap markdown file, if you'd like one, before we move into actually composing pattern 00.
+
+## Asked for two more patterns after pattern03 done
+
+Locked in. Updated pattern-role plan (patterns 00–03 as already composed and approved stay untouched — this only affects what comes after):
+
+| Pattern | Role | Motifs present |
+|---|---|---|
+| 00 | Invocation | III (+ IV) — *composed* |
+| 01 | Nave | I + III — *composed* |
+| 02 | Liturgy A | I + II + III — *composed* |
+| 03 | Liturgy B | I + II(var) + III + IV — *composed* |
+| 04 | **Bridge (Threshold)** | I (intensifying) + IV (insistent) — *new, not yet composed* |
+| 05 | Forge A / Climax | I + II + IV + V — *not yet composed* |
+| 06 | **Forge B / Climax (variant)** | I + II(var) + IV + V(var) — *new, not yet composed* |
+| 07 | Requiem | III + II (slow) — *not yet composed* |
+| 08 | Recessional / Coda | flourish, hard stop — *not yet composed* |
+
+**New motif — VI: Threshold.** Not a new sample; it's a treatment of existing motifs rather than a new instrument. The idea: Ignition's kick/bass pattern gradually densifies (fills in subdivisions that were previously silent) while Klaxon (Siren) becomes more frequent and insistent, both building toward the Forge's arrival rather than the current "arc then recede" shape Siren has in Pattern 00. This keeps us within the 8-sample budget while still giving the bridge its own identity.
+
+**Forge B** distinguishes itself from Forge A the same way Liturgy B did from A — inverted/altered Choir of Gears phrasing and a different Hammerfall hit pattern — so a second visit to the climax doesn't feel like a rerun.
+
+**Revised draft order list** (still open for adjustment):
+`00 01 02 03 02 03 04 05 06 05 07 02 03 04 06 08`
+
+Reasoning: Bridge (04) leads into the first Forge pairing (05→06, hearing both variants back to back at the peak), Forge A returns once more later for a smaller second peak, then Requiem, a final Liturgy pass, one last Bridge→Forge B run, and out to the Coda.
+
+Next up compositionally: Pattern 04, the Bridge. Say the word when you want to start on it.
