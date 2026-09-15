@@ -8,15 +8,16 @@ orderList:
   - 3
   - 2
   - 3
-  - 2
-  - 3
   - 4
   - 5
   - 6
   - 5
+  - 6
   - 9
   - 10
   - 7
+  - 2
+  - 3
   - 2
   - 3
   - 4
@@ -65,3 +66,7 @@ instruments:
     volume: 0x2a
     start: 0x0090
     length: 0x2571
+  - id: 10
+    source: 'st02'
+    name: 'ST-02/Tallic'
+    volume: 0x34
