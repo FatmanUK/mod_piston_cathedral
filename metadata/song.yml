@@ -1,28 +1,29 @@
 ---
 title: 'Piston Cathedral'
-message: ' A gritty mechanical   dark-electro rhythm   by Adam J Richardson  Written with Claude   Sonnet 5 (Medium)                            With interruptions     and interference    by Millie  >^._.^<~~ '
+message: ' A gritty mechanical    dark-electro rhythm  by Adam J Richardson  Written with Claude     Sonnet 5 (Medium)    With interruptions     and interference    by Millie  >^._.^<~~ '
 orderList:
-  - 0
-  - 1
-  - 2
-  - 3
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
-  - 5
-  - 6
-  - 9
-  - 10
-  - 7
-  - 2
-  - 3
-  - 2
-  - 3
-  - 4
-  - 6
-  - 8
+  - 0x0  ## Pattern 00 — "Invocation"
+  - 0x1  ## Pattern 01 — "The Nave"
+  - 0x2  ## Pattern 02 — "Liturgy A"
+  - 0x3  ## Pattern 03 — "Liturgy B"
+  - 0x2  ## Pattern 02 — "Liturgy A"
+  - 0x3  ## Pattern 03 — "Liturgy B"
+  - 0x4  ## Pattern 04 — "Bridge/Threshold"
+  - 0x5  ## Pattern 05 — "Forge A"
+  - 0x6  ## Pattern 06 — "Forge B"
+  - 0x5  ## Pattern 05 — "Forge A"
+  - 0x6  ## Pattern 06 — "Forge B"
+  - 0x9  ## Pattern 09 — "Embers A"
+  - 0xa  ## Pattern 10 — "Embers B"
+  - 0x7  ## Pattern 07 — "Requiem"
+  - 0x2  ## Pattern 02 — "Liturgy A"
+  - 0x3  ## Pattern 03 — "Liturgy B"
+  - 0x2  ## Pattern 02 — "Liturgy A"
+  - 0x3  ## Pattern 03 — "Liturgy B"
+  - 0x4  ## Pattern 04 — "Bridge/Threshold"
+  - 0x6  ## Pattern 06 — "Forge B"
+  - 0x5  ## Pattern 05 — "Forge A"
+  - 0x8  ## Pattern 08 — "Recessional/Coda"
 speed: 0x06
 bpm: 0x96
 instruments:
@@ -53,20 +54,16 @@ instruments:
     name: 'ST-01/MonsterBass'
     volume: 0x34
   - id: 7
-    source: 'st01'
-    name: 'ST-01/HeavySynth'
-    volume: 0x18
-  - id: 8
     source: 'st02'
     name: 'ST-02/Siren'
     volume: 0x2a
-  - id: 9
+  - id: 8
     source: 'st01'
     name: 'ST-01/Strings7'
     volume: 0x2a
     start: 0x0090
     length: 0x2571
-  - id: 10
+  - id: 9
     source: 'st02'
     name: 'ST-02/Tallic'
     volume: 0x34
